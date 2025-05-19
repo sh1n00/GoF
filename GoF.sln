@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoF", "GoF.vcxproj", "{E018
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "Singleton\Singleton.vcxproj", "{4A773C98-D438-46A0-9736-950AE288D3A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State", "State\State.vcxproj", "{02AD2B84-B932-4944-B4D7-76C170213E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4A773C98-D438-46A0-9736-950AE288D3A7}.Release|x64.Build.0 = Release|x64
 		{4A773C98-D438-46A0-9736-950AE288D3A7}.Release|x86.ActiveCfg = Release|Win32
 		{4A773C98-D438-46A0-9736-950AE288D3A7}.Release|x86.Build.0 = Release|Win32
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Debug|x64.ActiveCfg = Debug|x64
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Debug|x64.Build.0 = Debug|x64
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Debug|x86.ActiveCfg = Debug|Win32
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Debug|x86.Build.0 = Debug|Win32
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Release|x64.ActiveCfg = Release|x64
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Release|x64.Build.0 = Release|x64
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Release|x86.ActiveCfg = Release|Win32
+		{02AD2B84-B932-4944-B4D7-76C170213E01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
